@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello World";
+        return "Hello Badr, I have been working on deploying this application automatically on Microsoft Azure Cloud";
     }
 
     public static void main(String[] args) {
