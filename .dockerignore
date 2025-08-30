@@ -2,7 +2,6 @@
 .gitignore
 README.md
 Dockerfile
-target/
 .mvn/
 mvnw
 mvnw.cmd
